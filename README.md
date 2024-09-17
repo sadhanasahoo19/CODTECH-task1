@@ -7,6 +7,8 @@ DURATION: AUGUST TO SEPTEMBER 2024
 
 
 PROJECT OVERVIEW: TO-DO APP LIST
+![Screenshot 2024-09-17 084820](https://github.com/user-attachments/assets/16441731-bee2-4ca2-afab-0bcfdb853705)
+
 Objective:
 The To-Do List App is designed to help users manage their tasks efficiently. The primary goal of this project is to provide a user-friendly interface for adding, editing, and deleting tasks, as well as marking them as complete. This application aims to demonstrate fundamental web development skills and provide a practical tool for organizing daily activities.
 
